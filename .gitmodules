@@ -1,3 +1,3 @@
 [submodule "stack-gke"]
 	path = stack-gke
-	url = git@github.com:cycloid-community-catalog/stack-gke.git
+	url = git@github.com:sdurrheimer/stack-gke.git
